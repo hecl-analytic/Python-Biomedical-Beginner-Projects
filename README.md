@@ -40,4 +40,4 @@ A utility script designed to parse raw, unstructured server logs from medical de
 * **Future Goals:** Transitioning these logics into Pandas & NumPy for large-scale analysis.
 
 ---
-Created by Vojtech | Biomedical Engineering Student
+Created by| Biomedical Engineering Student
