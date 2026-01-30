@@ -1,0 +1,30 @@
+REPORT CHOLESTEROL
+8 má hodnoty v normálu  (<=5 mmol/l):
+ [(3.5, 'Filip Urban'), (3.9, 'Lukáš Veselý'), (4.2, 'Jan Novák'), (4.6, 'Roman Horák'), (4.8, 'Zuzana Bílá'), (4.9, 'Jiří Polák'), (5.0, 'Anna Rychlá'), (5.0, 'Tereza Vlčková')]
+------------------------------
+5 má zvýšené riziko (5,1 - 6,5mmol/l):
+ [(5.1, 'Jana Malá'), (5.3, 'David Kříž'), (5.8, 'Hana Zelená'), (6.2, 'Veronika Tichá'), (6.5, 'Barbora Hrozná')]
+------------------------------
+4 má vysoké riziko (> 6.5 mmol/l):
+ [(6.8, 'Petr Svoboda'), (7.2, 'Monika Fialová'), (7.5, 'Marie Černá'), (8.1, 'Lenka Modrá')]
+------------------------------
+Celkový počet pacientů: 17
+Celkové maximum: (8.1, 'Lenka Modrá')
+Celkové minimum: (3.5, 'Filip Urban')
+Median: (5.1, 'Jana Malá')
+------------------------------
+----- NORMA ----- 
+Celkové maximum: (5.0, 'Tereza Vlčková')
+Celkové minimum: (3.5, 'Filip Urban')
+Median: (4.8, 'Zuzana Bílá')
+------------------------------
+----- ZVÝŠENÉ RIZIKO----- 
+Celkové maximum: (6.5, 'Barbora Hrozná')
+Celkové minimum: (5.1, 'Jana Malá')
+Median: (5.8, 'Hana Zelená')
+------------------------------
+----- VYSOKÉ RIZIKO----- 
+Celkové maximum: (8.1, 'Lenka Modrá')
+Celkové minimum: (6.8, 'Petr Svoboda')
+Median: (7.5, 'Marie Černá')
+------------------------------
